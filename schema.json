@@ -12,6 +12,10 @@
       "desc": "breakfast",
       "endtime": "10.00",
       "starttime": "8.00"
+    }, {
+      "desc": "training",
+      "endtime": "11.00",
+      "starttime": "18.00"
     }]}
   ]
 }
