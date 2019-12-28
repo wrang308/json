@@ -1,17 +1,17 @@
 {
   "day": [{
     "day": "monday",
-    "activity": {
+    "activity": [{
       "desc": "bedtime",
       "endtime": "10.00",
       "starttime": "8.00"
-    }},
+    }]},
   {
-  "day": "tuesday",
-    "activity": {
+  "day": "tuesday","activity":[
+     {
       "desc": "breakfast",
       "endtime": "10.00",
       "starttime": "8.00"
-    }}
+    }]}
   ]
 }
