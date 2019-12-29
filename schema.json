@@ -1,21 +1,31 @@
 {
-  "day": [{
-    "day": "monday",
-    "activity": [{
-      "desc": "bedtime",
-      "endtime": "10.00",
-      "starttime": "8.00"
-    }]},
-  {
-  "day": "tuesday","activity":[
-     {
-      "desc": "breakfast",
-      "endtime": "10.00",
-      "starttime": "8.00"
-    }, {
-      "desc": "training",
-      "endtime": "11.00",
-      "starttime": "18.00"
-    }]}
-  ]
+    "day": [
+        {
+            "day": "monday",
+            "date": "22/6-20",
+            "activity": [
+                {
+                    "desc": "bedtime",
+                    "endtime": "10.00",
+                    "starttime": "8.00"
+                }
+            ]
+        },
+        {
+            "day": "tuesday",
+            "date": "23/6-20",
+            "activity": [
+                {
+                    "desc": "breakfast",
+                    "endtime": "10.00",
+                    "starttime": "8.00"
+                },
+                {
+                    "desc": "training",
+                    "endtime": "11.00",
+                    "starttime": "18.00"
+                }
+            ]
+        }
+    ]
 }
