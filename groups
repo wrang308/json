@@ -18,7 +18,8 @@
       "id": "40.00"
     }]},
   {
-  "group-name": "tuesday","activity":[
+  "group-name": "tuesday",
+  "members":[
      {
       "name": "adam",
       "id": "10.00"
