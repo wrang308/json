@@ -1,0 +1,30 @@
+{
+  "group": [{
+    "group-name": "monday",
+    "members": [{
+      "name": "klas",
+      "id": "10.00"
+    },
+    {
+      "name": "göran",
+      "id": "20.00"
+    },
+    {
+      "name": "fredrik",
+      "id": "30.00"
+    },
+    {
+      "name": "johan",
+      "id": "40.00"
+    }]},
+  {
+  "group-name": "tuesday","activity":[
+     {
+      "name": "adam",
+      "id": "10.00"
+    }, {
+      "name": "eva",
+      "id": "11.00"
+    }]}
+  ]
+}
