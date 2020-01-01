@@ -1,6 +1,6 @@
 {
   "group": [{
-    "group-name": "monday",
+    "group-name": "group blue",
     "members": [{
       "name": "klas",
       "id": "10.00"
@@ -18,7 +18,7 @@
       "id": "40.00"
     }]},
   {
-  "group-name": "tuesday",
+  "group-name": "group red",
   "members":[
      {
       "name": "adam",
@@ -26,6 +26,60 @@
     }, {
       "name": "eva",
       "id": "11.00"
-    }]}
+    }]},
+            {
+  "group-name": "group orange",
+  "members":[
+     {
+      "name": "tommy",
+      "id": "10.00"
+    }, {
+      "name": "marie",
+      "id": "11.00"
+    },
+  {
+      "name": "malin",
+      "id": "11.00"
+    },
+  {
+      "name": "anna",
+      "id": "11.00"
+    },
+  {
+      "name": "louise",
+      "id": "11.00"
+    }]},
+            {
+  "group-name": "group green",
+  "members":[
+     {
+      "name": "conny",
+      "id": "10.00"
+    }, {
+      "name": "lena",
+      "id": "11.00"
+    },
+  {
+      "name": "susan",
+      "id": "11.00"
+    },
+  {
+      "name": "carl",
+      "id": "11.00"
+    },
+  {
+      "name": "edward",
+      "id": "11.00"
+    }]},
+        {
+  "group-name": "group pink",
+  "members":[
+     {
+      "name": "fille",
+      "id": "10.00"
+    }, {
+      "name": "lollo",
+      "id": "11.00"
+    }]}    
   ]
 }
