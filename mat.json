@@ -1,111 +1,109 @@
 {
-    "day": [
-        {
-            "day": "monday",
-            "date": "22/6-20",
-            "activity": [
-                {
-                    "desc": "frukost",
-                    "endtime": "10.00",
-                    "starttime": "8.00"
-                }
-            ]
-        },
-        {
-            "day": "tuesday",
-            "date": "23/6-20",
-            "activity": [
-                {
-                    "desc": "breakfast",
-                    "endtime": "10.00",
-                    "starttime": "8.00"
-                },
-                {
-                    "desc": "training",
-                    "endtime": "11.00",
-                    "starttime": "18.00"
-                }
-            ]
-        },
-        {
-            "day": "wednesday",
-            "date": "24/6-20",
-            "activity": [
-                {
-                    "desc": "breakfast",
-                    "endtime": "10.00",
-                    "starttime": "8.00"
-                },
-                {
-                    "desc": "training",
-                    "endtime": "11.00",
-                    "starttime": "18.00"
-                }
-            ]
-        },
-        {
-            "day": "thursday",
-            "date": "25/6-20",
-            "activity": [
-                {
-                    "desc": "breakfast",
-                    "endtime": "10.00",
-                    "starttime": "8.00"
-                },
-                {
-                    "desc": "training",
-                    "endtime": "11.00",
-                    "starttime": "18.00"
-                }
-            ]
-        },
-        {
-            "day": "friday",
-            "date": "26/6-20",
-            "activity": [
-                {
-                    "desc": "breakfast",
-                    "endtime": "10.00",
-                    "starttime": "8.00"
-                },
-                {
-                    "desc": "training",
-                    "endtime": "11.00",
-                    "starttime": "18.00"
-                }
-            ]
-        },
-        {
-            "day": "saturday",
-            "date": "27/6-20",
-            "activity": [
-                {
-                    "desc": "breakfast",
-                    "endtime": "10.00",
-                    "starttime": "8.00"
-                },
-                {
-                    "desc": "training",
-                    "endtime": "11.00",
-                    "starttime": "18.00"
-                }
-            ]
-        },
-        {
-            "day": "sunday",
-            "date": "28/6-20",
-            "activity": [
-                {
-                    "desc": "breakfast",
-                    "endtime": "10.00",
-                    "starttime": "8.00"
-                },
-                {
-                    "desc": "training",
-                    "endtime": "11.00",
-                    "starttime": "18.00"
-                }
-            ]
-        }
-    ]
+	"day": [{
+			"day": "monday",
+			"date": "22/6-20",
+			"activity": [{
+				"desc": "frukost",
+				"endtime": "10.00",
+				"starttime": "8.00",
+				"alternativ": [{
+						"alt": "veg: inte kött"
+					},
+					{
+						"alt": "vanlig: kött?"
+					}
+				]
+			}]
+		},
+		{
+			"day": "tuesday",
+			"date": "23/6-20",
+			"activity": [{
+					"desc": "breakfast",
+					"endtime": "10.00",
+					"starttime": "8.00"
+				},
+				{
+					"desc": "training",
+					"endtime": "11.00",
+					"starttime": "18.00"
+				}
+			]
+		},
+		{
+			"day": "wednesday",
+			"date": "24/6-20",
+			"activity": [{
+					"desc": "breakfast",
+					"endtime": "10.00",
+					"starttime": "8.00"
+				},
+				{
+					"desc": "training",
+					"endtime": "11.00",
+					"starttime": "18.00"
+				}
+			]
+		},
+		{
+			"day": "thursday",
+			"date": "25/6-20",
+			"activity": [{
+					"desc": "breakfast",
+					"endtime": "10.00",
+					"starttime": "8.00"
+				},
+				{
+					"desc": "training",
+					"endtime": "11.00",
+					"starttime": "18.00"
+				}
+			]
+		},
+		{
+			"day": "friday",
+			"date": "26/6-20",
+			"activity": [{
+					"desc": "breakfast",
+					"endtime": "10.00",
+					"starttime": "8.00"
+				},
+				{
+					"desc": "training",
+					"endtime": "11.00",
+					"starttime": "18.00"
+				}
+			]
+		},
+		{
+			"day": "saturday",
+			"date": "27/6-20",
+			"activity": [{
+					"desc": "breakfast",
+					"endtime": "10.00",
+					"starttime": "8.00"
+				},
+				{
+					"desc": "training",
+					"endtime": "11.00",
+					"starttime": "18.00"
+				}
+			]
+		},
+		{
+			"day": "sunday",
+			"date": "28/6-20",
+			"activity": [{
+					"desc": "breakfast",
+					"endtime": "10.00",
+					"starttime": "8.00"
+				},
+				{
+					"desc": "training",
+					"endtime": "11.00",
+					"starttime": "18.00"
+				}
+			]
+		}
+	]
 }
