@@ -1,6 +1,7 @@
 {
   "group": [{
     "group-name": "group blue",
+    "coach": "coach blue",
     "members": [{
       "name": "klas",
       "id": "10.00"
@@ -19,6 +20,7 @@
     }]},
   {
   "group-name": "group red",
+  "coach": "coach red",
   "members":[
      {
       "name": "adam",
@@ -29,6 +31,7 @@
     }]},
             {
   "group-name": "group orange",
+  "coach": "coach orange",
   "members":[
      {
       "name": "tommy",
@@ -51,6 +54,7 @@
     }]},
             {
   "group-name": "group green",
+  "coach": "coach green",
   "members":[
      {
       "name": "conny",
@@ -73,6 +77,7 @@
     }]},
         {
   "group-name": "group pink",
+  "coach": "coach pink",
   "members":[
      {
       "name": "fille",
