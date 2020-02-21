@@ -1,0 +1,107 @@
+{
+	"group": [{
+			"group": "monday",
+
+			"day": [{
+				"day": "monday",
+				"date": "22/6-20",
+				"activity": [{
+					"desc": "bedtime",
+					"plan": "1",
+					"endtime": "10.00",
+					"starttime": "8.00"
+				}]
+			}]
+		},
+		{
+			"group": "tuesday",
+			"activity": [{
+					"desc": "breakfast",
+					"plan": "8",
+					"endtime": "10.00",
+					"starttime": "8.00"
+				},
+				{
+					"desc": "training",
+					"plan": "7",
+					"endtime": "11.00",
+					"starttime": "18.00"
+				}
+			]
+		},
+		{
+			"group": "wednesday",
+			"activity": [{
+					"desc": "breakfast",
+					"plan": "5",
+					"endtime": "10.00",
+					"starttime": "8.00"
+				},
+				{
+					"desc": "training",
+					"plan": "13",
+					"endtime": "11.00",
+					"starttime": "18.00"
+				}
+			]
+		},
+		{
+			"group": "thursday",
+			"activity": [{
+					"desc": "breakfast",
+					"plan": "12",
+					"endtime": "10.00",
+					"starttime": "8.00"
+				},
+				{
+					"desc": "training",
+					"plan": "11",
+					"endtime": "11.00",
+					"starttime": "18.00"
+				}
+			]
+		},
+		{
+			"group": "friday",
+			"activity": [{
+					"desc": "breakfast",
+					"endtime": "10.00",
+					"starttime": "8.00"
+				},
+				{
+					"desc": "training",
+					"endtime": "11.00",
+					"starttime": "18.00"
+				}
+			]
+		},
+		{
+			"group": "saturday",
+			"activity": [{
+					"desc": "breakfast",
+					"endtime": "10.00",
+					"starttime": "8.00"
+				},
+				{
+					"desc": "training",
+					"endtime": "11.00",
+					"starttime": "18.00"
+				}
+			]
+		},
+		{
+			"group": "sunday",
+			"activity": [{
+					"desc": "breakfast",
+					"endtime": "10.00",
+					"starttime": "8.00"
+				},
+				{
+					"desc": "training",
+					"endtime": "11.00",
+					"starttime": "18.00"
+				}
+			]
+		}
+	]
+}
