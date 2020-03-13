@@ -89,11 +89,13 @@
 				"date": "22/6-20",
 			"activity": [{
 					"desc": "breakfast",
+					"plan": "11",
 					"endtime": "10.00",
 					"starttime": "8.00"
 				},
 				{
 					"desc": "training",
+					"plan": "11",
 					"endtime": "11.00",
 					"starttime": "18.00"
 				}
@@ -107,11 +109,13 @@
 				"date": "22/6-20",
 			"activity": [{
 					"desc": "breakfast",
+					"plan": "11",
 					"endtime": "10.00",
 					"starttime": "8.00"
 				},
 				{
 					"desc": "training",
+					"plan": "11",
 					"endtime": "11.00",
 					"starttime": "18.00"
 				}
@@ -125,11 +129,13 @@
 				"date": "22/6-20",
 			"activity": [{
 					"desc": "breakfast",
+					"plan": "11",
 					"endtime": "10.00",
 					"starttime": "8.00"
 				},
 				{
 					"desc": "training",
+					"plan": "11",
 					"endtime": "11.00",
 					"starttime": "18.00"
 				}
