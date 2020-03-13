@@ -1,6 +1,6 @@
 {
 	"groups": [{
-			"group": "monday",
+			"group": "pinkiepie",
 
 			"day": [{
 				"day": "monday",
@@ -14,7 +14,7 @@
 			}]
 		},
 		{
-			"group": "tuesday",
+			"group": "rhubarb",
 			"activity": [{
 					"desc": "breakfast",
 					"plan": "8",
@@ -30,7 +30,7 @@
 			]
 		},
 		{
-			"group": "wednesday",
+			"group": "crazy trains",
 			"activity": [{
 					"desc": "breakfast",
 					"plan": "5",
@@ -46,7 +46,7 @@
 			]
 		},
 		{
-			"group": "thursday",
+			"group": "orange gang",
 			"activity": [{
 					"desc": "breakfast",
 					"plan": "12",
@@ -62,7 +62,7 @@
 			]
 		},
 		{
-			"group": "friday",
+			"group": "feel free",
 			"activity": [{
 					"desc": "breakfast",
 					"endtime": "10.00",
@@ -76,7 +76,7 @@
 			]
 		},
 		{
-			"group": "saturday",
+			"group": "a glas of milk",
 			"activity": [{
 					"desc": "breakfast",
 					"endtime": "10.00",
@@ -90,7 +90,7 @@
 			]
 		},
 		{
-			"group": "sunday",
+			"group": "funday",
 			"activity": [{
 					"desc": "breakfast",
 					"endtime": "10.00",
