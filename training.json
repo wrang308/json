@@ -15,6 +15,9 @@
 		},
 		{
 			"group": "rhubarb",
+			"day": [{
+				"day": "monday",
+				"date": "22/6-20",
 			"activity": [{
 					"desc": "breakfast",
 					"plan": "8",
@@ -28,6 +31,7 @@
 					"starttime": "18.00"
 				}
 			]
+				}]
 		},
 		{
 			"group": "crazy trains",
