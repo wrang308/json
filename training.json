@@ -10,15 +10,6 @@
 					"plan": "1",
 					"endtime": "10.00",
 					"starttime": "8.00"
-				},
-				{
-				"day": "tuesday",
-				"date": "22/6-20",
-				"activity": [{
-					"desc": "bedtime",
-					"plan": "1",
-					"endtime": "10.00",
-					"starttime": "8.00"
 				}]
 			}]
 		},
