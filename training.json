@@ -44,6 +44,9 @@
 		},
 		{
 			"group": "crazy trains",
+			"day": [{
+				"day": "monday",
+				"date": "22/6-20",
 			"activity": [{
 					"desc": "breakfast",
 					"plan": "5",
@@ -57,6 +60,7 @@
 					"starttime": "18.00"
 				}
 			]
+			}]
 		},
 		{
 			"group": "orange gang",
