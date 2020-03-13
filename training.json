@@ -60,6 +60,9 @@
 		},
 		{
 			"group": "orange gang",
+			"day": [{
+				"day": "monday",
+				"date": "22/6-20",
 			"activity": [{
 					"desc": "breakfast",
 					"plan": "12",
@@ -73,9 +76,13 @@
 					"starttime": "18.00"
 				}
 			]
+			}]
 		},
 		{
 			"group": "feel free",
+			"day": [{
+				"day": "monday",
+				"date": "22/6-20",
 			"activity": [{
 					"desc": "breakfast",
 					"endtime": "10.00",
@@ -87,9 +94,13 @@
 					"starttime": "18.00"
 				}
 			]
+			}]
 		},
 		{
 			"group": "a glas of milk",
+			"day": [{
+				"day": "monday",
+				"date": "22/6-20",
 			"activity": [{
 					"desc": "breakfast",
 					"endtime": "10.00",
@@ -101,9 +112,13 @@
 					"starttime": "18.00"
 				}
 			]
+			}]
 		},
 		{
 			"group": "funday",
+			"day": [{
+				"day": "monday",
+				"date": "22/6-20",
 			"activity": [{
 					"desc": "breakfast",
 					"endtime": "10.00",
@@ -115,6 +130,7 @@
 					"starttime": "18.00"
 				}
 			]
+			}]
 		}
 	]
 }
