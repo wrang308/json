@@ -1,30 +1,30 @@
 {
 	"messages": [{
-			"message": "group blue",
+			"message": "group blue1",
 			"color": "#FFFFFF",
 			"start-time": "10.00",
 			"end-time": "11.00"
 		},
 		{
-			"message": "group blue",
+			"message": "galen katt 2",
 			"color": "#FFFFFF",
 			"start-time": "10.00",
 			"end-time": "11.00"
 		},
 		{
-			"message": "group blue",
+			"message": "nisse blå 3",
 			"color": "#FFFFFF",
 			"start-time": "10.00",
 			"end-time": "11.00"
 		},
 		{
-		"message": "group blue",
+		"message": "fru herman 4",
 			"color": "#FFFFFF",
 			"start-time": "10.00",
 			"end-time": "11.00"
 		},
 		{
-			"message": "group blue",
+			"message": "elaka Bob",
 			"color": "#FFFFFF",
 			"start-time": "10.00",
 			"end-time": "11.00"
