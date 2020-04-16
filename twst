@@ -1,0 +1,34 @@
+{
+	"messages": [{
+			"message": "group blue",
+			"color": "#FFFFFF",
+			"start-time": "10.00",
+			"end-time": "11.00"
+		},
+		{
+			"message": "group blue",
+			"color": "#FFFFFF",
+			"start-time": "10.00",
+			"end-time": "11.00"
+		},
+		{
+			"message": "group blue",
+			"color": "#FFFFFF",
+			"start-time": "10.00",
+			"end-time": "11.00"
+		},
+		{
+		"message": "group blue",
+			"color": "#FFFFFF",
+			"start-time": "10.00",
+			"end-time": "11.00"
+		},
+		{
+			"message": "group blue",
+			"color": "#FFFFFF",
+			"start-time": "10.00",
+			"end-time": "11.00"
+		}
+	]
+}
+
