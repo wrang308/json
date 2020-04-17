@@ -2,31 +2,31 @@
 	"autoPlayInterval": "15",
 	"messages": [{
 			"message": "group blue1",
-			"color": "#FFFFFF",
+			"color": "FFFFFF",
 			"start-time": "10.00",
 			"end-time": "11.00"
 		},
 		{
 			"message": "galen katt 2",
-			"color": "#FFFFFF",
+			"color": "FFFFFF",
 			"start-time": "10.00",
 			"end-time": "11.00"
 		},
 		{
 			"message": "nisse blå 3",
-			"color": "#FFFFFF",
+			"color": "FFFFFF",
 			"start-time": "10.00",
 			"end-time": "11.00"
 		},
 		{
 		"message": "fru herman 4",
-			"color": "#FFFFFF",
+			"color": "FFFFFF",
 			"start-time": "10.00",
 			"end-time": "11.00"
 		},
 		{
 			"message": "elaka Bob",
-			"color": "#FFFFFF",
+			"color": "FFFFFF",
 			"start-time": "10.00",
 			"end-time": "11.00"
 		}
