@@ -1,5 +1,5 @@
 {
-	"autoPlayInterval": "10",
+	"autoPlayInterval": "2",
 	"messages": [{
 			"message": "group blue1",
 			"color": "#FFFFFF",
